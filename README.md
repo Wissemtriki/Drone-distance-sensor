@@ -12,7 +12,7 @@ Provides scripts for obstacle detection, reading sensor data via GPIO, and compu
 1. Connect the ultrasonic sensor to Raspberry Pi GPIO pins.  
 2. Run the main Python file:  
 ```bash
-python3 main.py
+python3 Obstacle_Avoiding.py
 ```
 3. Observe the distance output in the terminal.
 
